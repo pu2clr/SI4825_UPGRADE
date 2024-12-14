@@ -48,7 +48,10 @@ Segundo o datasheet do fabricante, o Si4825 é um IC receptor de rádio AM/FM/SW
 - Configuração de bandas conforme a região AM/FM/SW  
 - Cobertura aprimorada das bandas FM/SW  
 
-É importante destacar que o projeto do rádio oferecido pelo IUB não explora todo o potencial do Si4825, especialmente no que diz respeito às bandas de Ondas Curtas, que podem cobrir uma ampla faixa de 2.3 a 28.5 MHz. No entanto, o rádio do curso limita-se apenas à banda de 25 metros (11.6–12.1 MHz). Essa restrição pode desmotivar entusiastas de Ondas Curtas, que buscam uma maior variedade de frequências para explorar e aproveitar ao máximo essa modalidade de recepção.
+O projeto do rádio oferecido pelo IUB, embora eficiente, não aproveita todo o potencial do Si4825, particularmente em relação às bandas de Ondas Curtas, que podem cobrir uma ampla faixa de 2.3 a 28.5 MHz. O rádio do curso é configurado apenas para a banda de 25 metros (11.6–12.1 MHz), o que pode limitar a experiência de entusiastas que desejam explorar uma maior diversidade de frequências nessa modalidade de recepção.
+
+Entretanto, como recurso didático, o rádio atende plenamente ao objetivo do curso, proporcionando uma base sólida para o aprendizado em eletrônica. Essa abordagem prática estimula os estudantes a aplicarem o conhecimento adquirido para modificar e expandir o projeto original, caso desejem explorar novas possibilidades e maximizar o uso do dispositivo.
+
 
 As figuras a seguir apresentam o rádio para mantage oferecido pelo IUB aos seus estudantes.
 
@@ -84,6 +87,23 @@ Segundo o datasheet do fabricante,  o Si4827 é um IC receptor de rádio AM/FM/S
 O Si4827 oferece uma cobertura aprimorada das bandas FM e SW, além de suportar a recepção de áudio de canais de TV da China na banda FM, tornando-o versátil em diferentes cenários de uso. Seu algoritmo de controle superior proporciona uma interface de controle fácil e confiável, eliminando a necessidade de componentes externos ajustados manualmente, comuns em soluções tradicionais.
 Essa integração entre o Si4827 e um microcontrolador, como o Arduino Pro Mini 3.3V ou equivalente, abre possibilidades interessantes para o aprendizado e a personalização de projetos de rádio. Permite, por exemplo, modernizar receptores analógicos, adicionar funcionalidades digitais como exibição de frequência e controle automático, e explorar conceitos de eletrônica embarcada, fazendo deste componente uma excelente escolha para hobbistas e estudantes interessados em combinar o clássico e o moderno em eletrônica.
 
+**Características do Si4827**  
+
+- Suporte à banda FM  (64–109 MHz)  
+- Suporte à banda AM  (504–1750 kHz)  
+- Suporte à banda SW (2.3–28.5 MHz)  
+- Suporte selecionável para todas as bandas regionais AM/FM/SW  
+- Cobertura aprimorada das bandas FM/SW  
+- Interface de controle de 2 fios (I2C)  
+- Saída mono  
+- Indicador de estação válida  
+- Suporte para controle de volume digital  
+- Suporte para ajuste de graves e agudos (Bass/Treble)  
+- Componentes mínimos, sem necessidade de calibração manual  
+- Excelente desempenho em condições reais  
+- Recepção de áudio de canais de TV da China na banda FM  
+- Tensão de alimentação de 2,0 a 3,6 V  
+- Suporte para uma ampla gama de antenas de bastão de ferrite e loop de ar  
 
 
 
