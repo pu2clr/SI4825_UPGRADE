@@ -136,6 +136,8 @@ Isso significa que, para ouvir ondas médias ou ondas curtas, será necessário 
 
 ![Si4827 soldado na placa do rádio (projeto modificado)](./Imagens/Si4827_on_board.jpg)
 
+Observe na figura anterior as trilhas cortadas conforme indicado no esquem modificado. 
+
 
 
 
