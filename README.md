@@ -127,7 +127,14 @@ No esquema apresentado anteriormente, nenhuma modificação foi feita no front-e
 Isso significa que, para ouvir ondas médias ou ondas curtas, será necessário ajustar manualmente a chave localizada na traseira do rádio para a posição correta, garantindo uma recepção de qualidade. Automatizar esse processo demandaria a adição de outros componentes, o que aumentaria significativamente o custo e a complexidade do projeto, indo além do objetivo de simplicidade e acessibilidade proposto.
 
 
+### Si4825 soldado na placa do rádio (projeto original)
 
+![Si4825 soldado na placa do rádio (projeto original)](./Imagens/SI4725_on_board.jpg)
+
+
+### Si4827 soldado na placa do rádio (projeto modificado) 
+
+![Si4827 soldado na placa do rádio (projeto modificado)](./Imagens/Si4827_on_board.jpg)
 
 
 
