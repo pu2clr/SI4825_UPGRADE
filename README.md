@@ -110,11 +110,14 @@ Essa integração entre o Si4827 e um microcontrolador, como o Arduino Pro Mini 
 
 ## Circuito original do rádio da IUB (com o SI4825)
 
-![Circuito original do rádio da IUB (com o SI4825)](./Imagens/IUB_RADIO_SCHEMATIC_01.jpg)
+O esquema a seguir representa o projeto original do rádio. Ao analisar o circuito com o Si4825, é possível observar que os pinos 10 e 11 estão conectados ao terra, enquanto os pinos 5 e 1 permanecem flutuantes (sem função). Na modificação para o Si4827, esses pinos ganham novas atribuições: os pinos 1, 10 e 11 serão configurados para desempenhar funções essenciais na comunicação com o microcontrolador, ampliando as capacidades e funcionalidades do sistema.
+** Note também que o "X" destacado em vermelho indica os pontos onde será necessário cortar as trilhas correspondentes na placa de circuito impresso. Esse procedimento será detalhado nas próximas etapas para garantir a correta implementação das modificações.**
 
+![Circuito original do rádio da IUB (com o SI4825)](./Imagens/IUB_RADIO_SCHEMATIC_01.jpg)
 
 ## Circuito modificado do rádio da IUB para receber o Si4827
 
+No circuito apresentado a seguir, os destaques em vermelho indicam claramente os pontos de conexão do microcontrolador ao sistema, orientando a integração de forma precisa e funcional.
 
 ![Circuito modificado do rádio da IUB para receber o Si4827](./Imagens/IUB_RADIO_SCHEMATIC_02_SI4827.png)
 
@@ -122,6 +125,7 @@ Essa integração entre o Si4827 e um microcontrolador, como o Arduino Pro Mini 
 No esquema apresentado anteriormente, nenhuma modificação foi feita no front-end do rádio. No kit oferecido pelo IUB, conforme ilustrado no circuito, a seleção da antena é feita pela chave de banda. Ou seja, ao mesmo tempo que a chave define a banda a ser utilizada pelo Si4825 (FM, AM ou OC), ela também seleciona a antena correspondente. No circuito modificado, essa funcionalidade continuará sendo gerenciada pela chave mecânica original.
 
 Isso significa que, para ouvir ondas médias ou ondas curtas, será necessário ajustar manualmente a chave localizada na traseira do rádio para a posição correta, garantindo uma recepção de qualidade. Automatizar esse processo demandaria a adição de outros componentes, o que aumentaria significativamente o custo e a complexidade do projeto, indo além do objetivo de simplicidade e acessibilidade proposto.
+
 
 
 
