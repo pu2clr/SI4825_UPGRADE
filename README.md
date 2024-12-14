@@ -119,6 +119,11 @@ Essa integração entre o Si4827 e um microcontrolador, como o Arduino Pro Mini 
 ![Circuito modificado do rádio da IUB para receber o Si4827](./Imagens/IUB_RADIO_SCHEMATIC_02_SI4827.png)
 
 
+No esquema apresentado anteriormente, nenhuma modificação foi feita no front-end do rádio. No kit oferecido pelo IUB, conforme ilustrado no circuito, a seleção da antena é feita pela chave de banda. Ou seja, ao mesmo tempo que a chave define a banda a ser utilizada pelo Si4825 (FM, AM ou OC), ela também seleciona a antena correspondente. No circuito modificado, essa funcionalidade continuará sendo gerenciada pela chave mecânica original.
+
+Isso significa que, para ouvir ondas médias ou ondas curtas, será necessário ajustar manualmente a chave localizada na traseira do rádio para a posição correta, garantindo uma recepção de qualidade. Automatizar esse processo demandaria a adição de outros componentes, o que aumentaria significativamente o custo e a complexidade do projeto, indo além do objetivo de simplicidade e acessibilidade proposto.
+
+
 
 
 
