@@ -40,9 +40,9 @@ Segundo o datasheet do fabricante, o Si4825 é um IC receptor de rádio AM/FM/SW
 
 ### Características do Si4825 
 
-- Suporte à banda FM (64–109 MHz)  
-- Suporte à banda AM  (504–1750 kHz)  
-- Suporte à banda SW (2.3–28.5 MHz)  
+- Suporte à banda FM (64-109 MHz)  
+- Suporte à banda AM  (504-1750 kHz)  
+- Suporte à banda SW (2.3-28.5 MHz)  
 - Não requer calibração manual  
 - Saída de áudio mono  
 - Configuração de bandas conforme a região AM/FM/SW  
@@ -89,9 +89,9 @@ Essa integração entre o Si4827 e um microcontrolador, como o Arduino Pro Mini 
 
 **Características do Si4827**  
 
-- Suporte à banda FM  (64–109 MHz)  
-- Suporte à banda AM  (504–1750 kHz)  
-- Suporte à banda SW (2.3–28.5 MHz)  
+- Suporte à banda FM  (64-109 MHz)  
+- Suporte à banda AM  (504-1750 kHz)  
+- Suporte à banda SW (2.3-28.5 MHz)  
 - Suporte selecionável para todas as bandas regionais AM/FM/SW  
 - Cobertura aprimorada das bandas FM/SW  
 - Interface de controle de 2 fios (I2C)  
@@ -104,6 +104,21 @@ Essa integração entre o Si4827 e um microcontrolador, como o Arduino Pro Mini 
 - Recepção de áudio de canais de TV da China na banda FM  
 - Tensão de alimentação de 2,0 a 3,6 V  
 - Suporte para uma ampla gama de antenas de bastão de ferrite e loop de ar  
+
+
+
+
+## Circuito original do rádio da IUB (com o SI4825)
+
+![Circuito original do rádio da IUB (com o SI4825)](./Imagens/IUB_RADIO_SCHEMATIC_01.jpg)
+
+
+## Circuito modificado do rádio da IUB para receber o Si4827
+
+
+![Circuito modificado do rádio da IUB para receber o Si4827](./Imagens/IUB_RADIO_SCHEMATIC_02_SI4827.png)
+
+
 
 
 
