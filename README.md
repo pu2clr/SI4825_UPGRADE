@@ -1,5 +1,7 @@
 # Modificando o rádio do “Curso Profissionalizante em Eletrônica, Rádio e TV” do Instituto Universal Brasileiro 
 
+Por Ricardo Lima Caratti - PU2CLR
+
 ![Kit de rádio oferecido pelo IUB](./Imagens/IUB_CAPA_01.jpg)
 
 ## Objetivos do projeto
