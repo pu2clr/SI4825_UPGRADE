@@ -16,7 +16,7 @@ Como objetivo secundário, este projeto busca capacitar o hobbista ou estudante 
 
 ## Contextualização
 
-O Instituto Universal Brasileiro – IUB é uma instituição de ensino à distância pioneira no Brasil, fundada em 1941, conhecida por oferecer cursos práticos e acessíveis. O curso “Profissionalizante em Eletrônica, Rádio e TV” capacita os alunos nas áreas de eletrônica básica, manutenção de rádios, televisores e outros equipamentos eletrônicos, combinando teoria e prática. É voltado para quem busca uma formação técnica bem como para interessados em eletrônica.  
+O Instituto Universal Brasileiro - IUB é uma instituição de ensino à distância pioneira no Brasil, fundada em 1941, conhecida por oferecer cursos práticos e acessíveis. O curso “Profissionalizante em Eletrônica, Rádio e TV” capacita os alunos nas áreas de eletrônica básica, manutenção de rádios, televisores e outros equipamentos eletrônicos, combinando teoria e prática. É voltado para quem busca uma formação técnica bem como para interessados em eletrônica.  
 
 Além de oferecer um excelente material teórico que explica de forma clara e acessível os conceitos fundamentais de eletrônica, bem como detalha os principais componentes utilizados em projetos, o curso também proporciona uma rica experiência prática. Os alunos têm acesso a conteúdos aplicados por meio de ferramentas e kits exclusivos, que permitem a aplicação direta do conhecimento adquirido. Um dos destaques do curso é a montagem de um receptor multibanda, capaz de sintonizar estações de rádio em FM, OM e OC. Essa abordagem prática não apenas reforça o aprendizado teórico, mas também desenvolve habilidades essenciais para projetos eletrônicos reais, preparando os alunos para atuar de maneira eficaz no mercado técnico.
 
