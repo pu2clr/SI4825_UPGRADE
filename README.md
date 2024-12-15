@@ -141,6 +141,9 @@ Observe na figura anterior as trilhas cortadas conforme indicado no esquem modif
 
 ### Ligação do SI4827 e o Arduino
 
+As figuras a seguir ilustram as conexões entre o Arduino e o Si4827. Nesta etapa do projeto, especialmente durante os testes, é fundamental garantir que o Arduino não entre em contato com pontos expostos na placa que possam causar curto-circuitos. Além disso, é recomendável encontrar um local adequado dentro da caixa do rádio para acomodar o Arduino de maneira segura, evitando danos ao circuito e garantindo a estabilidade do sistema.
+
+
 ![Ligação do SI4827 e o Arduino - 01](./Imagens/Si4827_and_arduino_01.png)
 
 
@@ -148,14 +151,11 @@ Observe na figura anterior as trilhas cortadas conforme indicado no esquem modif
 
 
 
-
-
-
-### Passos para a Programação do Si4827 com Arduino
+## Passos para a Programação do Si4827 com Arduino
 
 Conforme mencionado anteriormente, o controle do Si4827 exige o uso de um microcontrolador e de um firmware. Neste projeto, foi utilizado o Arduino Pro Mini 3.3V (8MHz), mas você pode optar por qualquer microcontrolador compatível, como o LGT8F328 (sem a necessidade de modificar o sketch), ou ainda o ESP32, ESP8266, STM32, entre outros que sejam compatíveis com o ambiente de desenvolvimento Arduino (Arduino IDE).
 
-#### Passos para Configurar o Ambiente Arduino para Programação do Firmware do Rádio Modificado:
+### Passos para Configurar o Ambiente Arduino para Programação do Firmware do Rádio Modificado:
 
 1. **Instale o Arduino IDE** (preferencialmente a versão mais recente).  
 2. Caso utilize um microcontrolador diferente do Arduino Pro Mini, Uno ou Nano, siga as orientações do fabricante para configurar o microcontrolador no ambiente Arduino.  
@@ -163,7 +163,16 @@ Conforme mencionado anteriormente, o controle do Si4827 exige o uso de um microc
 4. **Instale a biblioteca SSD1306Ascii** para controlar o display OLED.  
 5. Por fim, abra o sketch localizado na pasta  [Arduino/IUB_Si4827 (IUB_Si4827.ino](./Arduino/IUB_SI4827/) e carregue o sketch no Arduino escolhido.  
 
-Seguindo esses passos, seu rádio modificado estará pronto para operar com o Si4827 e suas novas funcionalidades.
+Seguindo passos supracitados, o rádio modificado estará pronto para operar com o Si4827 e suas novas funcionalidades.
+
+
+
+## Rádio modificado
+
+A figura a seguir ilustra o rádio após a modificação. Observe que a escala de estações do rádio original foi removida. A nova impressão das escalas será finalizada em breve. Vale destacar que o rádio modificado agora oferece suporte a várias bandas, incluindo a banda estendida de FM, duas bandas de OM e nove bandas de OC, proporcionando uma experiência mais completa e versátil.
+
+
+![Rádio modificado](./Imagens/modified_radio_01.png)
 
 
 ## Vídeos explicativos sobre este projeto
