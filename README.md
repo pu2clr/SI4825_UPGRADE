@@ -113,7 +113,7 @@ Essa integração entre o Si4827 e um microcontrolador, como o Arduino Pro Mini 
 ## Circuito original do rádio do IUB (com o SI4825)
 
 O esquema a seguir representa o projeto original do rádio. Ao analisar o circuito com o Si4825, é possível observar que os pinos 10 e 11 estão conectados ao terra, enquanto os pinos 5 e 1 permanecem flutuantes (sem função). Na modificação para o Si4827, esses pinos ganham novas atribuições: os pinos 1, 10 e 11 serão configurados para desempenhar funções essenciais na comunicação com o microcontrolador, ampliando as capacidades e funcionalidades do sistema.
-** Note também que o "X" destacado em vermelho indica os pontos onde será necessário cortar as trilhas correspondentes na placa de circuito impresso. Esse procedimento será detalhado nas próximas etapas para garantir a correta implementação das modificações.**
+**Note também que o "X" destacado em vermelho indica os pontos onde será necessário cortar as trilhas correspondentes na placa de circuito impresso. Esse procedimento será detalhado nas próximas etapas para garantir a correta implementação das modificações.**
 
 ![Circuito original do rádio do IUB (com o SI4825)](./Imagens/IUB_RADIO_SCHEMATIC_01.jpg)
 
