@@ -139,7 +139,24 @@ Isso significa que, para ouvir ondas médias ou ondas curtas, será necessário 
 Observe na figura anterior as trilhas cortadas conforme indicado no esquem modificado. É importante destacar que os pinos 10 e 11 também foram isolados da trilha que passa por baixo do CI. A figura não mostra este corte na trilha.  
 
 
+### Passos para a Programação do Si4827 com Arduino
+
+Conforme mencionado anteriormente, o controle do Si4827 exige o uso de um microcontrolador e de um firmware. Neste projeto, foi utilizado o Arduino Pro Mini 3.3V (8MHz), mas você pode optar por qualquer microcontrolador compatível, como o LGT8F328 (sem a necessidade de modificar o sketch), ou ainda o ESP32, ESP8266, STM32, entre outros que sejam compatíveis com o ambiente de desenvolvimento Arduino (Arduino IDE).
+
+#### Passos para Configurar o Ambiente Arduino para Programação do Firmware do Rádio Modificado:
+
+1. **Instale o Arduino IDE** (preferencialmente a versão mais recente).  
+2. Caso utilize um microcontrolador diferente do Arduino Pro Mini, Uno ou Nano, siga as orientações do fabricante para configurar o microcontrolador no ambiente Arduino.  
+3. **Instale a biblioteca SI4844** (desenvolvida pelo autor deste prtojeto e disponível na plataforma Arduino).  
+4. **Instale a biblioteca SSD1306Ascii** para controlar o display OLED.  
+5. Por fim, abra o sketch localizado na pasta  [Arduino/IUB_Si4827 (IUB_Si4827.ino](./Arduino/IUB_SI4827/) e carregue o sketch no Arduino escolhido.  
+
+Seguindo esses passos, seu rádio modificado estará pronto para operar com o Si4827 e suas novas funcionalidades.
 
 
+## Vídeos explicativos sobre este projeto
+
+* [MODIFICANDO UM RECEPTOR BASEADO NO SI4825 USANDO SI4827 E ARDUINO](https://youtu.be/m72DDU2v0QM?si=qBBbrvL5dS_kdm3M)
+* [Improving a Si4825-based radio with the Si4827 and Arduino](https://youtu.be/dl5ZFl_KF3c?si=HkgzJtQQ83H90XVn)
 
 
