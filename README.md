@@ -7,7 +7,7 @@ Por Ricardo Lima Caratti - PU2CLR
 ## Objetivos do projeto
 
 
-O projeto propõe converter o rádio oferecido pela IUB, originalmente baseado no DSP Si4825, em um modelo aprimorado com o DSP Si4827. A transição para o Si4827 traz a vantagem de agregar funcionalidades tanto analógicas quanto digitais, oferecendo maior versatilidade e desempenho. Para potencializar a experiência do usuário, será incorporado um display OLED para a exibição clara e moderna da frequência e outros parâmetros do rádio, melhorando a interface visual.
+O projeto propõe converter o rádio oferecido pelo IUB, originalmente baseado no DSP Si4825, em um modelo aprimorado com o DSP Si4827. A transição para o Si4827 traz a vantagem de agregar funcionalidades tanto analógicas quanto digitais, oferecendo maior versatilidade e desempenho. Para potencializar a experiência do usuário, será incorporado um display OLED para a exibição clara e moderna da frequência e outros parâmetros do rádio, melhorando a interface visual.
 
 O controle do sistema será realizado por um microcontrolador, com a possibilidade de utilizar um Arduino Pro Mini 3.3V ou o LGT8F328, uma alternativa mais eficiente e econômica ao Arduino tradicional. Essa escolha garante compatibilidade e flexibilidade no desenvolvimento, além de permitir a personalização do firmware para explorar ao máximo as capacidades do DSP Si4827.
 
