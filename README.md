@@ -139,6 +139,18 @@ Isso significa que, para ouvir ondas médias ou ondas curtas, será necessário 
 Observe na figura anterior as trilhas cortadas conforme indicado no esquem modificado. É importante destacar que os pinos 10 e 11 também foram isolados da trilha que passa por baixo do CI. A figura não mostra este corte na trilha.  
 
 
+### Ligação do SI4827 e o Arduino
+
+![Ligação do SI4827 e o Arduino - 01](./Imagens/Si4827_and_arduino_01.png)
+
+
+![Ligação do SI4827 e o Arduino - 02](./Imagens/Si4827_and_arduino_02.png)
+
+
+
+
+
+
 ### Passos para a Programação do Si4827 com Arduino
 
 Conforme mencionado anteriormente, o controle do Si4827 exige o uso de um microcontrolador e de um firmware. Neste projeto, foi utilizado o Arduino Pro Mini 3.3V (8MHz), mas você pode optar por qualquer microcontrolador compatível, como o LGT8F328 (sem a necessidade de modificar o sketch), ou ainda o ESP32, ESP8266, STM32, entre outros que sejam compatíveis com o ambiente de desenvolvimento Arduino (Arduino IDE).
