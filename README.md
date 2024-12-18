@@ -186,7 +186,9 @@ As imagens a seguir mostram alguns rádios comerciais que, aparentemente, utiliz
 
 ![Modelo AM/FM ](./Imagens/MOD01_SI4825_LEOMOX.jpg)
 
-A figura anterior mostra um rádio barato, com valores que variam de R$30,00 a R$45,00 ($5 e $8). Há alguns vídeos no Youtube que modificam este rádio para sintonizar Ondas Curtas (sem substituir o CI Si4825). Por exemplo: [DIY - Modificando Rádio Chinês para Ondas Curtas](https://youtu.be/p_jMDc-Z4UQ?si=TbO-2pOMU9OJk7xW); e [Modifiquei um radio barato para 19 faixas e ondas curtas (Simples de fazer em casa) si4825](https://youtu.be/fACiOL5Po2A?si=Ce3TpfWzTgX_-M8e) 
+A figura anterior mostra um rádio barato, com valores que variam de R$30,00 a R$45,00 ($5 e $8). Há alguns vídeos no Youtube que modificam este rádio para sintonizar Ondas Curtas (sem substituir o CI Si4825). Por exemplo: [DIY - Modificando Rádio Chinês para Ondas Curtas](https://youtu.be/p_jMDc-Z4UQ?si=TbO-2pOMU9OJk7xW); e [Modifiquei um radio barato para 19 faixas e ondas curtas (Simples de fazer em casa) si4825](https://youtu.be/fACiOL5Po2A?si=Ce3TpfWzTgX_-M8e). 
+
+**Atenção:** *Alguns modelos deste rádio são baseados no BK1198 (SSOP16) e não no Si4825. Neste caso, os procedimentos para modificar este versão do rádio (baseado no BK1196-SSOP16) devem ser outros*. 
 
 
 ![Modelo AM/FM/SW 1](./Imagens/MOD02_SI4825_XXXXX.jpg)
