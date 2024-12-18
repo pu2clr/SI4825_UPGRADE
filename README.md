@@ -177,6 +177,28 @@ A figura a seguir ilustra o rádio após a modificação. Observe que a escala d
 ![Rádio modificado](./Imagens/modified_radio_01.png)
 
 
+## Modelos comerciais de rádios baseados no SI4825
+
+**Atenção:** *Antes de prosseguir com mais detalhes sobre os rádios comerciais baseados no Si4825, é importante destacar que não é intenção do autor encorajar a modificação de equipamentos baseados neste CI. Esse tipo de intervenção envolve diversos riscos, incluindo danos irreparáveis ao aparelho. Realizar tais procedimentos exige experiência, sólido conhecimento sobre os circuitos integrados Si4825 e Si4827, além de uma boa dose de desprendimento.*
+
+As imagens a seguir mostram alguns rádios comerciais que, aparentemente, utilizam o circuito integrado Si4825. Em geral, o CI é raspado pelo fabricante, o que impossibilita a identificação direta do dispositivo. No entanto, a análise do circuito eletrônico sugere fortemente que o CI utilizado seja, de fato, o Si4825. 
+
+![Modelo AM/FM ](./Imagens/MOD01_SI4825_LEOMOX.jpg)
+
+A figura anterior mostra um rádio barato, com valores que variam de R$30,00 a R$45,00 ($5 e $8). Há alguns vídeos no Youtube que modificam este rádio para sintonizar Ondas Curtas (sem substituir o CI Si4825). Por exemplo: [DIY - Modificando Rádio Chinês para Ondas Curtas](https://youtu.be/p_jMDc-Z4UQ?si=TbO-2pOMU9OJk7xW); e [Modifiquei um radio barato para 19 faixas e ondas curtas (Simples de fazer em casa) si4825](https://youtu.be/fACiOL5Po2A?si=Ce3TpfWzTgX_-M8e) 
+
+
+![Modelo AM/FM/SW 1](./Imagens/MOD02_SI4825_XXXXX.jpg)
+
+A figura anterior apresenta um receptor vendido em lojas locais por valores próximos aos R$110,00. Embora a identificação do CI não esteja presente neste rádio, a julgar pelo circuito, trata-se de um rádio baseado no Si4825. 
+
+
+![Modelo AM/FM/SW 2](./Imagens/MOD03_SI4825_X_BASS.jpg)
+
+Com um projeto quase idêntico ao do modelo anterior, este rádio é vendido em lojas locais por valores próxmos dos R$120,00. Este rádio é bem mais popular que o modelo anterior e não tem o visual Vintage.
+
+
+
 ## Vídeos explicativos sobre este projeto
 
 * [MODIFICANDO UM RECEPTOR BASEADO NO SI4825 USANDO SI4827 E ARDUINO](https://youtu.be/m72DDU2v0QM?si=qBBbrvL5dS_kdm3M)
