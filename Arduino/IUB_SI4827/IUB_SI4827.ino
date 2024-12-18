@@ -152,7 +152,7 @@ void setup()
   else
     rx.setBassTreble(4);
 
-  rx.setVolume(40);
+  rx.setVolume(50);
 
   if ( tabBand[bandIdx].botton != 0)
     rx.setCustomBand(tabBand[bandIdx].bandIdx, tabBand[bandIdx].botton, tabBand[bandIdx].top,tabBand[bandIdx].bandSpace);
