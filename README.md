@@ -182,7 +182,7 @@ A figura a seguir ilustra o rádio após a modificação. Observe que a escala d
 **Atenção:** *Antes de avançar com mais detalhes sobre os rádios comerciais baseados no Si4825, é fundamental esclarecer que não é intenção do autor incentivar a modificação de equipamentos que utilizem este circuito integrado. Tais intervenções apresentam diversos riscos, incluindo danos irreparáveis ao aparelho. Esses procedimentos demandam experiência, sólido conhecimento técnico sobre os circuitos integrados Si4825 e Si4827, além de considerável desprendimento. Por fim, o autor não se responsabiliza por quaisquer danos resultantes da aplicação dos procedimentos descritos neste documento.*
 
 
-As imagens a seguir mostram alguns rádios comerciais que, aparentemente, utilizam o circuito integrado Si4825. Em geral, o CI é raspado pelo fabricante, o que impossibilita a identificação direta do dispositivo. No entanto, a análise do circuito eletrônico sugere fortemente que o CI utilizado seja, de fato, o Si4825. 
+As imagens a seguir mostram alguns rádios comerciais que, aparentemente, utilizam o circuito integrado Si4825. Em geral, o CI é raspado pelo fabricante, o que impossibilita a identificação direta do dispositivo. No entanto, a análise do circuito eletrônico sugere fortemente que o CI utilizado seja, de fato, o Si4825. **É importante destacar que alguns modelos podem sofrer mudanças pelo fabricante e passar a utilizar outro CI (diferente do Si4825). Diante disso, é sempre bom nalisar com cuidado o circuito para identificar se o CI é realmente um Si4825.**
 
 ![Modelo AM/FM ](./Imagens/MOD01_SI4825_LEOMOX.jpg)
 
