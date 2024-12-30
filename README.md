@@ -206,5 +206,15 @@ Com um projeto quase idêntico ao do modelo anterior, este rádio é vendido em 
 
 * [MODIFICANDO UM RECEPTOR BASEADO NO SI4825 USANDO SI4827 E ARDUINO](https://youtu.be/m72DDU2v0QM?si=qBBbrvL5dS_kdm3M)
 * [Improving a Si4825-based radio with the Si4827 and Arduino](https://youtu.be/dl5ZFl_KF3c?si=HkgzJtQQ83H90XVn)
+* [Modificando um rádio de baixo custo baseado no Si4825 para escutas em Ondas Curtas](https://youtu.be/3q1Z5tCHIJM?si=XBKxzRVmGxJ6mbyr)
 
 
+
+## Mais informações sobre a família DSP Si48XX
+
+* [Si4825 RADIO HACK](https://github.com/pu2clr/Si4825_RADIO_HACK)
+* BROADCAST MECHANICAL TUNING AM/FM/SW RADIO RECEIVER (Si4825-A10)
+* SKYWORKS - Si4825 DEMO BOARD USER’S GUIDE (Si4825-DEMO)
+* Si4827-A10 BROADCAST ANALOG TUNING DIGITAL DISPLAY AM/FM/SW RADIO RECEIVER
+* Si4844-B20 BROADCAST ANALOG TUNING DIGITAL DISPLAY AM/FM/SW RADIO RECEIVER
+* AN610 - Si48XX ATDD PROGRAMMING GUIDE
